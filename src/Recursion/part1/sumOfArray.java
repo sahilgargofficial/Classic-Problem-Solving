@@ -1,4 +1,4 @@
-package Recursion;
+package Recursion.part1;
 
 public class sumOfArray {
 

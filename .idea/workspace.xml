@@ -2,22 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8679ae38-4e1a-4f22-a236-40e5e205b485" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/CodingNinjas/META-INF/CodingNinjas.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CodingNinjas/Recursion/NthFibonacciNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CodingNinjas/Recursion/checkNumberInArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CodingNinjas/Recursion/checkSorted.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CodingNinjas/Recursion/sumOfArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/AllIndicesOfNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/FirstIndexOfNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/LastIndexOfNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/checkNumberInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/checkSorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/sumOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/CountZeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/GeometricSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/MultiplicationRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/SumOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/checkPalindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingNinjas/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingNinjas/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/CodingNinjas/Recursion/DriverClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingNinjas/Recursion/DriverClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingNinjas/Recursion/FibonacciSeries.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Recursion/DriverClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/DriverClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +85,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584529683945</updated>
-      <workItem from="1584529690273" duration="15867000" />
+      <workItem from="1584529690273" duration="16380000" />
+      <workItem from="1584602571942" duration="4386000" />
     </task>
     <servers />
   </component>
@@ -102,25 +94,29 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1584555694848">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1584622653372">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584555694848" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1584555694847">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584622653372" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1584622653372">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584555694847" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1584555694847">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584622653372" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1584622653372">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584555694847" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1584555694848">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584622653372" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1584622653372">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584555694848" />
-    <state x="384" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1584529690290">
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584622653372" />
+    <state x="384" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1584602572838">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="384" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584529690290" />
+    <state x="384" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584602572838" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1584602859854">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1584602859854" />
   </component>
 </project>

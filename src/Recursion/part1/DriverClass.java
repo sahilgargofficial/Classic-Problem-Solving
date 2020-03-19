@@ -1,4 +1,4 @@
-package Recursion;
+package Recursion.part1;
 
 public class DriverClass {
 
@@ -59,6 +59,20 @@ public class DriverClass {
         }
         System.out.println();
 
+        // Multiply  2 Numbers using ( +  or  -) operators recursively
+        System.out.println("Result of Multiplication is  " + MultiplicationRecursive.multiply(5 , 3));
+
+        // Count Number of Zeros in a Number
+        System.out.println("Number of Zeros are  " + CountZeros.count(10240));
+
+        // Find Geometric Sum till Kth number power
+        System.out.println("Geometric sum is  " + GeometricSum.findSum(3));
+
+        // check given String is Palindrome or not
+        System.out.println("String is Palindrome:  " + checkPalindrome.check("sos"));
+
+        // Sum of All Digits in a number
+        System.out.println("Sum of Digits are  " + SumOfDigits.sum(0));
     }
 
 }
