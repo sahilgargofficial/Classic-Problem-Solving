@@ -10,8 +10,8 @@ public class checkSorted {
         if (start == input.length - 1) {
             return true;
         }
-        if (input[start] > input[start + 1]) {
-            return false;
+        if (input[start] < input[start + 1]) {
+            return sort(input, start + 1);
         }
         /*
         At Every step condition input[0] < input[1] here start is checked if true the recursion is called and start is
@@ -20,6 +20,7 @@ public class checkSorted {
         become less then input[start+1] that means array is unsorted so false is returned and recursion call return the
         result of if() condition so recursion starts folding with false as result and final caller will receive false as result
          */
-        return sort(input, start + 1);
+        return false;
+
     }
 }
