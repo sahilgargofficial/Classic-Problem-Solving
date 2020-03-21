@@ -2,34 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8679ae38-4e1a-4f22-a236-40e5e205b485" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Assignment/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Assignment/HanoiTower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Assignment/PairStar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Assignment/ReplacePI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Assignment/StringToInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Assignment/removeX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/part2/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/part2/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/part2/PrintKeypadCombinations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/part2/PrintSubsequences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/part2/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/part2/ReturnKeypad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/part2/ReturnSubsequences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/part2/checkAB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/part2/stairCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trees/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trees/TreeNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingNinjas/Recursion/AllIndicesOfNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingNinjas/Recursion/CalculatePower.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingNinjas/Recursion/CountZeros.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingNinjas/Recursion/DriverClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingNinjas/Recursion/Factorial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingNinjas/Recursion/FirstIndexOfNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingNinjas/Recursion/GeometricSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingNinjas/Recursion/LastIndexOfNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingNinjas/Recursion/MultiplicationRecursive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingNinjas/Recursion/NthFibonacciNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingNinjas/Recursion/NumberOfDigits.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingNinjas/Recursion/PrintNNaturalNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingNinjas/Recursion/SumOfDigits.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingNinjas/Recursion/SumOfNaturalNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingNinjas/Recursion/checkNumberInArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingNinjas/Recursion/checkPalindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingNinjas/Recursion/checkSorted.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingNinjas/Recursion/sumOfArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingNinjas/Recursion/part2/Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingNinjas/Recursion/part2/Driver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingNinjas/Recursion/part2/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingNinjas/Recursion/part2/MergeSort.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Recursion/part2/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/part2/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/part2/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/part2/MergeSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,13 +46,26 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager" selected="Application.DriverClass">
+  <component name="RunManager" selected="Application.Driver (2)">
     <configuration name="Driver (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Recursion.part2.Driver" />
       <module name="CodingNinjas" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Recursion.part2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Driver (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Trees.Driver" />
+      <module name="CodingNinjas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Trees.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,9 +114,11 @@
       <item itemvalue="Application.DriverClass" />
       <item itemvalue="Application.Driver" />
       <item itemvalue="Application.Driver (1)" />
+      <item itemvalue="Application.Driver (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Driver (2)" />
         <item itemvalue="Application.DriverClass" />
         <item itemvalue="Application.Driver (1)" />
         <item itemvalue="Application.Driver" />
@@ -137,7 +138,9 @@
       <updated>1584529683945</updated>
       <workItem from="1584529690273" duration="16380000" />
       <workItem from="1584602571942" duration="12059000" />
-      <workItem from="1584679028321" duration="363000" />
+      <workItem from="1584679028321" duration="12496000" />
+      <workItem from="1584776770672" duration="556000" />
+      <workItem from="1584777589451" duration="4641000" />
     </task>
     <servers />
   </component>
@@ -145,42 +148,46 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1584646045928">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1584801413249">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584646045928" />
-    <state width="1323" height="223" key="GridCell.Tab.0.center" timestamp="1584646045928">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584801413249" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1584801413249">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584646045928" />
-    <state width="1323" height="223" key="GridCell.Tab.0.left" timestamp="1584646045928">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584801413249" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1584801413249">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584646045928" />
-    <state width="1323" height="223" key="GridCell.Tab.0.right" timestamp="1584646045928">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584801413249" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1584801413249">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584646045928" />
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1584646045929">
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584801413249" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1584789782517">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584646045929" />
-    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1584646045928">
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584789782517" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1584789782517">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1584646045928" />
-    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1584646045928">
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1584789782517" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1584789782517">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1584646045928" />
-    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1584646045929">
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1584789782517" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1584789782517">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1584646045929" />
-    <state x="384" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1584679026679">
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1584789782517" />
+    <state x="384" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1584777593960">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="384" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584679026679" />
+    <state x="384" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584777593960" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1584688853927">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1584688853927" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1584602859854">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
